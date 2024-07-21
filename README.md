@@ -57,14 +57,6 @@ The analysis includes:
 - Visualization of important features and their impact on house prices
 - Model building and evaluation (if applicable)
 
-## Contributing
-
-Contributions are welcome! If you have any improvements or suggestions, feel free to open a pull request or issue.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Contact
 
 If you have any questions or feedback, please contact me at (bhavyanaik2603@gmail.com)
